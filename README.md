@@ -59,6 +59,6 @@ python main.py
 
 ## 📸 Screen Preview
 
-![alt text](image.png)
+<img width="1184" height="625" alt="image" src="https://github.com/user-attachments/assets/a22beb3e-60a1-4dda-b541-e69d3af2eff9" />
 
 Developed by [Aroosh Datta]

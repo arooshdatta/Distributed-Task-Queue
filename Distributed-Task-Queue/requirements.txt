@@ -1,0 +1,2 @@
+# No external dependencies required for core logic.
+# Standard libraries used: threading, heapq, uuid, time, random, dataclasses
